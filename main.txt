@@ -1,0 +1,5 @@
+Challenge 1
+https://public.tableau.com/profile/miguel1533#!/vizhome/LabDataVisualizationwithTableau_16099884083400/Dashboard
+
+Bonus Challenge
+https://public.tableau.com/profile/miguel1533#!/vizhome/lab-tableau-data-visualization2/Sheet2
