@@ -1,1 +1,2 @@
-https://public.tableau.com/views/lab-tableau-data-visualization_16108297612140/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+Challenge: https://public.tableau.com/views/lab-tableau-data-visualization_16108297612140/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+Bonus: https://public.tableau.com/views/lab-tableau-data-visualization_bonuschallenge/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
