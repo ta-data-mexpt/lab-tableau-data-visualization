@@ -1,2 +1,5 @@
 NFL Dashboard
 https://public.tableau.com/app/profile/jorge.fernando.ochoa.constantino/viz/Ironhack-DataVisualizationwithTableau/HomeVisitor?publish=yes
+
+Bonus Challenge - Countries of World
+https://public.tableau.com/app/profile/jorge.fernando.ochoa.constantino/viz/BonusChallenge-CountriesofWorld/WorldPopulationDashboard
