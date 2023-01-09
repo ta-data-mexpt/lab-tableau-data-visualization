@@ -1,0 +1,7 @@
+Challenge:
+
+https://public.tableau.com/app/profile/ren.navarro/viz/NFLDataVisualizationwithTableauRenNavarro/Dashboard1
+
+Bonus:
+
+https://public.tableau.com/app/profile/ren.navarro/viz/WordDataVisualizationwithTableauRenNavarro/Dashboard1?publish=yes
