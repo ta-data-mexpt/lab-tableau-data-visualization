@@ -1,0 +1,5 @@
+NFL:
+https://public.tableau.com/views/lab_nfl_luDAPT22/NFLTeamPerformanceDashboard?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
+
+WORLD:
+https://public.tableau.com/views/worldgdpandpopulation_luDAPT22/Dashboard?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
